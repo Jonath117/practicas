@@ -1,0 +1,23 @@
+.cc{
+    color: red;
+  }
+  
+  .b{
+    color: white;
+    background-color: rebeccapurple;
+    border-color: rgb(219, 179, 245);
+  }
+
+  .persona-info {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .persona-info h1 {
+    color: #333;
+  }
+  
+  .persona-info p {
+    font-size: 18px;
+  }
+  

@@ -1,0 +1,19 @@
+<h1>Hola</h1>
+
+<p>este es un texto</p>
+
+este es un botton <button class="b" > has click aquí</button>
+<p> </p>
+
+<h1>Mi nombre</h1>
+
+<div class="persona-info">
+
+    <p><strong>Nombre:</strong> {{nombre}}</p>
+    <p><strong>Edad:</strong> {{edad}}</p>
+
+</div>
+
+<div *ngIf="!nombre && !edad">
+    <p>Cargando datos...</p>
+  </div>
