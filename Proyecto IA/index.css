@@ -1,0 +1,15 @@
+.centrar
+{
+    text-align: center;
+ 
+}
+
+.btn {
+            
+    border-radius: 5px;
+    padding: 0.5rem 1rem; /* Asegura un relleno uniforme */
+    font-size: 1rem;
+    background-color: #ffc107; /* Color de fondo */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 1);
+}
